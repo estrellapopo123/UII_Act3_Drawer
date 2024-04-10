@@ -17,6 +17,10 @@ samples, guidance on mobile development, and a full API reference.
 
 - How to use FlutLab? Please, view our https://flutlab.io/docs
 - Join the discussion and conversation on https://flutlab.io/residents
+- 
+  https://medium.com/flutter-espa%C3%B1a/desaf%C3%ADos-con-flutter-container-38842d23e2b7
+https://classroom.google.com/c/NjYyMDYzNDczODI5/a/NjYwNjY3MzczMDI0/details
+
 ![image](https://github.com/estrellapopo123/UII_Act3_Drawer/assets/144378353/780cb58f-d5ef-4bd7-a0fe-9b0b653306ad)
 ![image](https://github.com/estrellapopo123/UII_Act3_Drawer/assets/144378353/2db22c20-f354-4b95-9717-11ec3912a3ed)
 ![image](https://github.com/estrellapopo123/UII_Act3_Drawer/assets/144378353/c99f4d25-a238-4da7-ab1a-099dad3da1ef)
